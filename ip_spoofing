@@ -1,0 +1,49 @@
+ID/IP Spoofing
+Questions:
+    (1) Where are you coming from?
+    (2) Whare are you going?
+    (3) Where are you planning to stay?
+The location where you asked the above questions may affect when you assess the trustworthiness of the answers
+    (1) At the cross broder
+    (2) At an McDonal Restaurent drive through
+    (3) At your front door
+    
+    How would you know when a stranger lies to you when you ask one of the above questions?
+
+We always have trouble of confirm a stranger's ID, (IP address in case of a new packet.)
+
+Solution to ID issue:
+    (1) Student ID card
+    (2) Driver License with Photo ID
+    (3) Passport
+
+Solution to IP issue:
+    (1) SSH - confirm stranger's ID with their public key
+    (2) IPSec - confirmation with a security protocol
+    By we just changed the topic, because we are not deal with a stranger now!
+    What must have met this person before, or via a third party we both trust.
+    
+So, what would be our assess of the trustworthiness of the answers when the questions were asked at
+    (1) a network gateway
+    (2) a networked host
+    
+More about fail-safe and fail-secure:
+
+TCP/IP is the tools for building a fail-safe communication system. When it is under attacks, 
+part of it may be demage, but the rest can still function. It is like when there is a disaster, 
+we check perform a detail check of the refugee when they are heading to a refugee camp.
+
+Firewall is the tools we try to add to a portion of an fail-safe environment, and make that
+sub-environment fail-security.
+
+Who will benefit from a file-safe environment/system?
+
+Who will benefit from a file-secure environment/system?
+
+Where was the concept of firewall come from?
+    Geniess 3:23
+    
+What is your favourite book?
+
+
+    
